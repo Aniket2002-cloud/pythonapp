@@ -1,3 +1,5 @@
+*Following Steps off python app hosting*
+
 1)  mkdir myapp
 
 2)  cd myapp/
